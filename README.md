@@ -1,6 +1,6 @@
 Wire up an Arduino Uno according to this diagram.
 
-![image](https://github.com/user-attachments/assets/654a4944-e9a4-4128-8bfa-1308e151830c)
+![image](https://github.com/user-attachments/assets/63392c84-22a8-4982-84fc-762ff80ae82a)
 
 Then, load this code onto the Arduino with Arduino IDE or something similar. Once loaded, you should be able to press the buttons to light up the LEDs.
 
